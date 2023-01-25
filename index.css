@@ -13,18 +13,17 @@ body {
   align-items: center;
   background-color: hsl(0, 0%, 100%);
   border-radius: 10px;
-  box-shadow: 0 10px 100px hsl(220, 15%, 55%);
   display: flex;
   justify-content: center;
   flex-flow: column nowrap;
-  width: 290px;
+  width: 320px;
 }
 
 img {
   align-self: center;
   border-radius: 10px;
   margin-top: 15px;
-  width: 260px;
+  width: 280px;
 }
 
 #description-container {
@@ -34,7 +33,7 @@ img {
   font-family: 'Outfit', monospace;
 }
 
-#description-container h2 {
+#description-container h1 {
   font-size: 20px;
   font-weight: 700;
   margin: 18px 20px;
@@ -47,5 +46,5 @@ img {
   font-size: 15px;
   margin: 1px 1px 36px;
   width: 260px;
-  font-weight: 400;
+  font-weight: 100, 100;
 }
