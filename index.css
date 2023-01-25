@@ -13,6 +13,7 @@ body {
   align-items: center;
   background-color: hsl(0, 0%, 100%);
   border-radius: 10px;
+  box-shadow: 0 10px 100px hsl(220, 15%, 55%);
   display: flex;
   justify-content: center;
   flex-flow: column nowrap;
